@@ -28,8 +28,8 @@ Electronics Engineer, currently working as a freelance web developer.
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-  [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)(#)
+  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)(#)
 
 - **Frontend Development**
 
@@ -59,6 +59,6 @@ Electronics Engineer, currently working as a freelance web developer.
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)(#)
 
   
