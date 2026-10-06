@@ -33,5 +33,5 @@ ECE graduate currently pursuing MSc in Networking and Cybersecurity from IOE Pul
 
 - **Operating Systems**
 
-  ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
