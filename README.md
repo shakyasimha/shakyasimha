@@ -13,6 +13,7 @@ Electronics Engineer, currently working as a freelance web developer.
   ![C](https://img.shields.io/badge/C_Language-%2300599C?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
 
 
@@ -25,7 +26,7 @@ Electronics Engineer, currently working as a freelance web developer.
 - **Backend Development**
 
   ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![PHP](https://img.shields.io//PHP-777BB4?logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 - **Databases**
 
