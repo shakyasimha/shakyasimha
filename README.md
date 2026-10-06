@@ -1,21 +1,19 @@
-### Hi there 👋
-
-## I am Sushovan Shakya - Welcome to my GitHub profile
+## Namasté, I'm Sushovan Shakya 🇳🇵
 
 ### About Me
 
-Electronics Engineer, currently working as a freelance web developer.
+ECE graduate currently pursuing MSc in Networking and Cybersecurity from IOE Pulchowk. Deeply interested in cybersecurity, with a particular focus on banking and financial systems, low-level computing, and computer networks.
 
 ### Skills
 
-- **Languages**
+- **Languages & Scripting**
 
   ![C](https://img.shields.io/badge/C_Language-%2300599C?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
-
+  ![Powershell](https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 - **Frontend Development**
 
@@ -35,7 +33,5 @@ Electronics Engineer, currently working as a freelance web developer.
 
 - **Operating Systems**
 
+  ![Windows](https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
