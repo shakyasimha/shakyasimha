@@ -25,9 +25,7 @@ Electronics Engineer, currently working as a freelance web developer.
 - **Backend Development**
 
   ![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![PHP](https://img.shields.io//PHP-777BB4?logo=php&logoColor=white)
 
 - **Databases**
 
